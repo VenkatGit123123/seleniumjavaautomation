@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 35, Failures: 7, Errors: 0, Skipped: 9, Time elapsed: 188.293 s <<< FAILURE! - in TestSuite
+setUp(com.seleniumjavaautomation.tests.JavascriptExecutorTests)  Time elapsed: 1.702 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+
+
+setUp(com.seleniumjavaautomation.tests.MouseHoverEventTest)  Time elapsed: 0.005 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+
+
+setUp(com.seleniumjavaautomation.tests.ObjRepoCalcTest)  Time elapsed: 0.004 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+
+
+testJunitTimeoutException on testJunitTimeoutException(org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest)(org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest)  Time elapsed: 5.648 s  <<< FAILURE!
+java.lang.Exception: test timed out after 2000 milliseconds
+	at app//org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest.testJunitTimeoutException(JunitTimeoutAndEcpectedExceptionTest.java:44)
+
+exceptiontest1 on exceptiontest1(org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest)(org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest)  Time elapsed: 3.607 s  <<< FAILURE!
+java.lang.NullPointerException
+	at org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest.exceptiontest1(JunitTimeoutAndEcpectedExceptionTest.java:52)
+
+testJunitTimeoutException on testJunitTimeoutException(org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest)(org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest)  Time elapsed: 5.583 s  <<< FAILURE!
+java.lang.Exception: test timed out after 2000 milliseconds
+	at app//org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest.testJunitTimeoutException(JunitTimeoutAndEcpectedExceptionTest.java:44)
+
+exceptiontest1 on exceptiontest1(org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest)(org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest)  Time elapsed: 3.547 s  <<< FAILURE!
+java.lang.NullPointerException
+	at org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest.exceptiontest1(JunitTimeoutAndEcpectedExceptionTest.java:52)
+

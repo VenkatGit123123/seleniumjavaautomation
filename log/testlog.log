@@ -1,0 +1,817 @@
+2023-11-22 20:18:04,120 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-22 20:18:15,356 - seleniumjavaautomation -INFO - Application opend
+2023-11-22 20:18:16,214 - seleniumjavaautomation -INFO - Highlited First Name element
+2023-11-22 20:18:16,944 - seleniumjavaautomation -INFO - Highlited click button 
+2023-11-22 20:18:25,507 - seleniumjavaautomation -INFO - Highlited submit button 
+2023-11-22 20:18:28,852 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-22 20:20:37,919 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-22 20:20:50,738 - seleniumjavaautomation -INFO - Application opend
+2023-11-22 20:20:51,466 - seleniumjavaautomation -INFO - Highlited First Name element
+2023-11-22 20:20:52,210 - seleniumjavaautomation -INFO - Highlited click button 
+2023-11-22 20:21:01,176 - seleniumjavaautomation -INFO - Highlited submit button 
+2023-11-22 20:21:02,144 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-22 20:34:37,218 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-22 20:34:46,206 - seleniumjavaautomation -INFO - Application opend
+2023-11-22 20:34:46,936 - seleniumjavaautomation -INFO - Highlited First Name element
+2023-11-22 20:34:47,674 - seleniumjavaautomation -INFO - Highlited click button 
+2023-11-22 20:34:55,470 - seleniumjavaautomation -INFO - Highlited submit button 
+2023-11-22 20:34:57,094 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-22 20:35:14,666 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-22 20:35:22,393 - seleniumjavaautomation -INFO - Application opend
+2023-11-22 20:35:23,131 - seleniumjavaautomation -INFO - Highlited First Name element
+2023-11-22 20:35:24,090 - seleniumjavaautomation -INFO - Highlited click button 
+2023-11-22 20:35:32,995 - seleniumjavaautomation -INFO - Highlited submit button 
+2023-11-22 20:35:33,923 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-22 20:35:33,946 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-22 20:35:36,181 - seleniumjavaautomation -INFO - testCaptureScreenshotFullpage method
+2023-11-22 20:35:38,262 - seleniumjavaautomation -INFO - Application opend
+2023-11-22 20:35:38,700 - seleniumjavaautomation -INFO - Screenshot is captured and stored in screenshots folder
+2023-11-22 20:35:38,712 - seleniumjavaautomation -INFO - testtakeElementScreenshot method
+2023-11-22 20:35:43,686 - seleniumjavaautomation -INFO - testtakeSectionScreenshot method
+2023-11-22 20:35:57,207 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 07:04:15,425 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 07:04:37,047 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 07:23:57,008 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 07:24:12,624 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 07:33:30,315 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 07:33:47,226 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 08:06:55,849 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 08:07:10,996 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 08:21:16,293 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 08:21:34,215 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 08:22:08,949 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 08:22:16,876 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 08:27:25,358 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 08:27:25,372 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-11-30 08:27:36,479 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 08:27:36,480 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 09:12:00,964 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 09:12:00,980 - seleniumjavaautomation -INFO - Test Starts Running In FireFox Browser.
+2023-11-30 09:13:14,447 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 09:13:14,449 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 09:18:16,586 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 09:18:16,599 - seleniumjavaautomation -INFO - Test Starts Running In FireFox Browser.
+2023-11-30 09:19:31,031 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 09:19:31,031 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 17:52:21,549 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 17:52:21,565 - seleniumjavaautomation -INFO - Test Starts Running In FireFox Browser.
+2023-11-30 17:52:37,695 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 17:52:37,696 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 17:54:34,294 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 17:54:34,309 - seleniumjavaautomation -INFO - Test Starts Running In FireFox Browser.
+2023-11-30 17:55:17,597 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 17:55:17,598 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 17:55:52,535 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 17:55:52,550 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-11-30 17:56:22,100 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 17:56:22,101 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 17:57:28,949 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 17:57:28,964 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-11-30 17:57:57,591 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 17:57:57,592 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 18:01:03,582 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 18:01:03,597 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-11-30 18:01:31,812 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 18:01:31,813 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 18:03:45,189 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 18:03:45,202 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-11-30 18:04:19,050 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 18:04:19,051 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 18:08:06,759 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 18:08:06,771 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-11-30 18:08:38,165 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 18:08:38,166 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 18:08:55,316 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 18:08:55,330 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-11-30 18:09:22,480 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 18:09:22,482 - seleniumjavaautomation -INFO - Browser closed 
+2023-11-30 18:30:07,158 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-11-30 18:30:07,172 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-11-30 18:30:35,907 - seleniumjavaautomation -INFO - Test finished 
+2023-11-30 18:30:35,908 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 17:56:41,410 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 17:56:41,425 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 17:57:10,868 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 17:57:10,869 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 18:53:20,072 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 18:53:20,082 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 18:53:31,624 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 18:53:31,626 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 18:57:13,718 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 18:57:13,744 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 18:57:26,131 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 18:57:26,131 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:11:59,868 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:11:59,886 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:12:24,284 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:12:24,285 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:13:02,367 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:13:02,382 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:13:26,411 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:13:26,412 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:16:31,031 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:16:31,045 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:16:55,883 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:16:55,884 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:27:56,071 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:27:56,084 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:28:04,354 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:28:04,355 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:28:35,705 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:28:35,724 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:28:44,739 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:28:44,740 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:28:53,583 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:28:53,603 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:29:01,971 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:29:01,972 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:29:46,330 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:29:46,346 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:29:55,048 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:29:55,049 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:30:04,695 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:30:04,710 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:30:13,675 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:30:13,677 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:38:08,307 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:38:08,321 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:38:21,884 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:38:21,885 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:38:59,097 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:38:59,115 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:39:12,979 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:39:12,981 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:40:18,887 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:40:18,905 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:40:38,447 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:40:38,448 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:55:48,128 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:55:48,140 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 19:55:56,338 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 19:55:56,339 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 19:59:54,231 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 19:59:54,248 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:00:03,747 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:00:03,748 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:00:25,587 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:00:25,600 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:00:33,000 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:00:33,001 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:10:39,678 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:10:39,696 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:11:09,203 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:11:09,204 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:12:01,226 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:12:01,265 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:13:04,877 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:13:04,878 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:24:40,091 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:24:40,108 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:24:52,139 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:24:52,140 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:26:42,115 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:26:42,130 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:26:53,265 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:26:53,266 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:41:16,483 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:41:16,498 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:41:30,345 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:41:30,346 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:44:28,341 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:44:28,356 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:44:41,353 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:44:41,354 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:48:18,565 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:48:18,579 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:48:30,200 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:48:30,201 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-11 20:48:53,447 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-11 20:48:53,458 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-11 20:49:05,147 - seleniumjavaautomation -INFO - Test finished 
+2023-12-11 20:49:05,148 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-12 20:47:20,637 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-12 20:47:20,654 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-12 20:47:35,373 - seleniumjavaautomation -INFO - Test finished 
+2023-12-12 20:47:35,374 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-12 20:47:35,386 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-12 20:47:35,387 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-12 20:47:52,010 - seleniumjavaautomation -INFO - Test finished 
+2023-12-12 20:47:52,011 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-12 20:47:52,019 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-12 20:47:52,020 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-12 20:47:56,760 - seleniumjavaautomation -INFO - Test finished 
+2023-12-12 20:47:56,761 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-12 20:47:56,773 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-12 20:47:56,774 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-12 20:48:57,208 - seleniumjavaautomation -INFO - Test finished 
+2023-12-12 20:48:57,210 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-12 20:48:57,234 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-12 20:48:57,234 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-12 20:49:06,286 - seleniumjavaautomation -INFO - Test finished 
+2023-12-12 20:49:06,287 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-12 20:49:06,296 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-12 20:49:06,297 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-12 20:49:17,076 - seleniumjavaautomation -INFO - Test finished 
+2023-12-12 20:49:17,077 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:00:29,063 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:00:29,078 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:00:47,805 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:00:47,807 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:01:34,416 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:01:34,434 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:01:43,547 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:01:43,548 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:10:34,451 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:10:34,466 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:10:45,616 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:10:45,617 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:26:54,925 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:26:54,943 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:27:06,584 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:27:06,585 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:30:27,118 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:30:27,131 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:30:38,362 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:30:38,363 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:41:23,588 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:41:23,605 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:41:34,821 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:41:34,822 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:47:57,046 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:47:57,062 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:48:09,133 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:48:09,133 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:48:09,145 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:48:09,146 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:48:15,428 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:48:15,429 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:49:09,752 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:49:09,769 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:49:19,261 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:49:19,262 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:49:19,274 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:49:19,275 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:49:25,429 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:49:25,431 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:52:28,272 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:52:28,287 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:52:38,994 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:52:38,996 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 07:52:39,020 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 07:52:39,021 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 07:52:45,173 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 07:52:45,175 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 08:02:19,782 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 08:02:19,796 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 08:02:29,968 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 08:02:29,970 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 08:22:27,390 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 08:22:27,404 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 08:22:33,023 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 08:22:33,024 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 08:25:34,556 - seleniumjavaautomation -INFO - Browser launched successfully
+2023-12-13 08:25:34,572 - seleniumjavaautomation -INFO - Test Starts Running In Chrome Browser.
+2023-12-13 08:25:58,804 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 08:25:58,807 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:18:36,174 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:18:36,183 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:18:59,393 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:18:59,401 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:19:19,748 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:19:19,749 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:28:14,649 - seleniumjavaautomation -INFO - Headless chrome browser launched successfully
+2023-12-13 19:28:14,676 - seleniumjavaautomation -INFO - Test Starts Running In Headless Chrome browser.
+2023-12-13 19:28:29,201 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:28:29,209 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:28:29,222 - seleniumjavaautomation -INFO - Headless chrome browser launched successfully
+2023-12-13 19:28:29,223 - seleniumjavaautomation -INFO - Test Starts Running In Headless Chrome browser.
+2023-12-13 19:28:35,215 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:28:35,217 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:28:35,238 - seleniumjavaautomation -INFO - Headless chrome browser launched successfully
+2023-12-13 19:28:35,240 - seleniumjavaautomation -INFO - Test Starts Running In Headless Chrome browser.
+2023-12-13 19:28:39,357 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:28:39,359 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:28:39,380 - seleniumjavaautomation -INFO - Headless chrome browser launched successfully
+2023-12-13 19:28:39,381 - seleniumjavaautomation -INFO - Test Starts Running In Headless Chrome browser.
+2023-12-13 19:28:59,655 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:28:59,656 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:40:43,140 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:40:43,157 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:40:53,692 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:40:53,695 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:41:04,174 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:41:04,176 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:41:32,092 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:41:32,095 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:43:08,559 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 19:43:08,571 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 19:43:25,574 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:43:25,576 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:43:25,596 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 19:43:25,597 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 19:43:36,656 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:43:36,658 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:43:36,668 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 19:43:36,669 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 19:43:46,223 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:43:46,226 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 19:43:46,246 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 19:43:46,248 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 19:44:11,844 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 19:44:11,845 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:03:37,841 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 20:03:37,858 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 20:03:49,074 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method started to execution
+2023-12-13 20:03:53,070 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by Old Feature
+2023-12-13 20:03:53,071 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method execution completed
+2023-12-13 20:03:55,579 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:03:55,580 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:03:55,603 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 20:03:55,604 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 20:04:02,952 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method started to execution
+2023-12-13 20:04:05,437 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by New Feature
+2023-12-13 20:04:05,440 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method execution completed
+2023-12-13 20:04:07,112 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:04:07,114 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:04:07,133 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 20:04:07,135 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 20:04:11,819 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method started to execution
+2023-12-13 20:04:14,433 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method execution completed
+2023-12-13 20:04:16,086 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:04:16,087 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:04:16,110 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 20:04:16,111 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 20:04:41,607 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:04:41,609 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:08:03,709 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 20:08:03,723 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 20:08:31,069 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:08:31,070 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:12:11,935 - seleniumjavaautomation -INFO - Headless firefox browser launched successfully
+2023-12-13 20:12:11,950 - seleniumjavaautomation -INFO - Test Starts Running In Headless Firefox browser.
+2023-12-13 20:12:18,840 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method started to execution
+2023-12-13 20:12:18,882 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method execution completed
+2023-12-13 20:12:24,958 - seleniumjavaautomation -INFO - setGetWinSize method started to execution
+2023-12-13 20:12:31,793 - seleniumjavaautomation -INFO - setGetWinSize method execution completed
+2023-12-13 20:12:31,812 - seleniumjavaautomation -INFO - setGetWinPosition method started to execution
+2023-12-13 20:12:37,863 - seleniumjavaautomation -INFO - setGetWinPosition method execution completed
+2023-12-13 20:12:39,527 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:12:39,528 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:17:24,733 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-13 20:17:24,750 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-13 20:17:32,079 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method started to execution
+2023-12-13 20:17:36,293 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by Old Feature
+2023-12-13 20:17:36,293 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method execution completed
+2023-12-13 20:17:36,829 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:17:36,829 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:17:36,840 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-13 20:17:36,841 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-13 20:17:38,547 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method started to execution
+2023-12-13 20:17:42,257 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by New Feature
+2023-12-13 20:17:42,258 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method execution completed
+2023-12-13 20:17:42,753 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:17:42,754 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:17:42,763 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-13 20:17:42,763 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-13 20:17:44,508 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method started to execution
+2023-12-13 20:17:46,290 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method execution completed
+2023-12-13 20:17:46,717 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:17:46,718 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-13 20:17:46,737 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-13 20:17:46,738 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-13 20:17:48,434 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method started to execution
+2023-12-13 20:17:48,471 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method execution completed
+2023-12-13 20:17:54,505 - seleniumjavaautomation -INFO - setGetWinSize method started to execution
+2023-12-13 20:18:00,821 - seleniumjavaautomation -INFO - setGetWinSize method execution completed
+2023-12-13 20:18:00,840 - seleniumjavaautomation -INFO - setGetWinPosition method started to execution
+2023-12-13 20:18:06,987 - seleniumjavaautomation -INFO - setGetWinPosition method execution completed
+2023-12-13 20:18:08,316 - seleniumjavaautomation -INFO - Test finished 
+2023-12-13 20:18:08,317 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 06:50:57,186 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 06:50:57,221 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 06:51:14,602 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 06:51:14,609 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 06:55:35,328 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 06:55:35,342 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 06:55:47,687 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 06:55:47,688 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 06:57:00,658 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 06:57:00,673 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 06:57:19,218 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 06:57:19,218 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:23:22,671 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:23:22,688 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:23:38,011 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:23:38,012 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:25:36,564 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:25:36,578 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:25:52,223 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:25:52,225 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:26:26,566 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:26:26,580 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:26:42,368 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:26:42,370 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:37:05,383 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:37:05,398 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:37:10,131 - seleniumjavaautomation -INFO - testScrollDownUpWebPage method started to execution
+2023-12-16 07:37:22,878 - seleniumjavaautomation -INFO - testXYCoordinatesOfElement method execution completed
+2023-12-16 07:37:23,380 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:37:23,381 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:38:12,937 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:38:12,951 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:38:17,748 - seleniumjavaautomation -INFO - testScrollDownUpWebPage method started to execution
+2023-12-16 07:38:28,898 - seleniumjavaautomation -INFO - testXYCoordinatesOfElement method execution completed
+2023-12-16 07:38:31,600 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:38:31,601 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:42:36,508 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:42:36,526 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:42:42,175 - seleniumjavaautomation -INFO - testScrollDownUpBottomWebPage method started to execution
+2023-12-16 07:42:53,248 - seleniumjavaautomation -INFO - testScrollDownUpBottomWebPage method execution completed
+2023-12-16 07:42:53,775 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:42:53,775 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:43:35,352 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:43:35,366 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:43:40,159 - seleniumjavaautomation -INFO - testScrollDownUpBottomWebPage method started to execution
+2023-12-16 07:44:15,607 - seleniumjavaautomation -INFO - testScrollDownUpBottomWebPage method execution completed
+2023-12-16 07:44:16,007 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:44:16,008 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:50:36,451 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:50:36,468 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:50:41,391 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method started to execution
+2023-12-16 07:51:15,900 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method execution completed
+2023-12-16 07:51:16,368 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:51:16,369 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 07:53:14,572 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 07:53:14,586 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 07:53:20,371 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method started to execution
+2023-12-16 07:53:56,078 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method execution completed
+2023-12-16 07:53:56,544 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 07:53:56,545 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 08:09:44,110 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 08:09:44,124 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 08:09:59,069 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 08:09:59,070 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 08:12:36,369 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 08:12:36,384 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 08:12:42,204 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 08:12:51,626 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 08:12:52,100 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 08:12:52,102 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 11:21:07,499 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 11:21:07,512 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 11:21:17,667 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 11:21:28,497 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 11:21:29,131 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 11:21:29,132 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 11:29:13,000 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 11:29:13,019 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 11:29:27,376 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 11:29:44,334 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 11:29:46,797 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 11:29:46,799 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 11:54:21,580 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 11:54:21,602 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 11:54:31,023 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 11:54:41,780 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 11:54:42,412 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 11:54:42,414 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:02:57,476 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:02:57,495 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:03:04,209 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 12:03:14,847 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 12:03:15,429 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:03:15,430 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:03:15,444 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:03:15,445 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:03:24,690 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:03:24,692 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:17:34,770 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:17:34,787 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:17:40,743 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 12:17:50,923 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 12:17:51,531 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:17:51,532 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:17:51,544 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:17:51,545 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:18:00,588 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:18:00,589 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:18:00,600 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:18:00,602 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:18:04,541 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:18:04,543 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:19:08,529 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:19:08,548 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:19:13,499 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 12:19:23,327 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 12:19:23,870 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:19:23,872 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:19:23,884 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:19:23,885 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:19:33,232 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:19:33,233 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:19:33,242 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:19:33,243 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:19:37,367 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:19:37,368 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:32:46,139 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:32:46,153 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:32:55,557 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:32:55,558 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 12:33:31,817 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 12:33:31,832 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 12:33:39,040 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 12:33:39,041 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 13:03:26,142 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 13:03:26,156 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 13:03:37,983 - seleniumjavaautomation -INFO - testReadingPieChartToolTipValue method started to execution
+2023-12-16 13:04:49,905 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 13:04:49,921 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 13:05:01,932 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 13:05:01,933 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 13:15:33,298 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 13:15:33,312 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 13:16:29,206 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 13:16:29,224 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 13:23:10,606 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 13:23:10,620 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 13:23:16,493 - seleniumjavaautomation -INFO - Application opend
+2023-12-16 13:23:17,117 - seleniumjavaautomation -INFO - Highlited First Name element
+2023-12-16 13:23:17,855 - seleniumjavaautomation -INFO - Highlited click button 
+2023-12-16 13:23:26,766 - seleniumjavaautomation -INFO - Highlited submit button 
+2023-12-16 13:23:27,646 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 13:23:27,647 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 13:23:29,322 - seleniumjavaautomation -INFO - testCaptureScreenshotFullpage method
+2023-12-16 13:23:31,178 - seleniumjavaautomation -INFO - Application opend
+2023-12-16 13:23:31,392 - seleniumjavaautomation -INFO - Screenshot is captured and stored in screenshots folder
+2023-12-16 13:23:31,403 - seleniumjavaautomation -INFO - testtakeElementScreenshot method
+2023-12-16 13:23:45,290 - seleniumjavaautomation -INFO - testtakeSectionScreenshot method
+2023-12-16 13:23:56,611 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 13:23:56,617 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 13:24:01,430 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 13:24:01,434 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:48:12,696 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:48:12,698 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:48:23,961 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:48:23,962 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:48:29,005 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:48:29,006 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:48:34,354 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:48:34,355 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:49:09,631 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:49:09,633 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:49:26,630 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:49:26,631 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:50:03,642 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:50:03,654 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:50:11,061 - seleniumjavaautomation -INFO - Application opend
+2023-12-16 14:50:11,752 - seleniumjavaautomation -INFO - Highlited First Name element
+2023-12-16 14:50:12,455 - seleniumjavaautomation -INFO - Highlited click button 
+2023-12-16 14:50:20,177 - seleniumjavaautomation -INFO - Highlited submit button 
+2023-12-16 14:50:23,371 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:50:23,372 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:50:25,222 - seleniumjavaautomation -INFO - testCaptureScreenshotFullpage method
+2023-12-16 14:50:27,291 - seleniumjavaautomation -INFO - Application opend
+2023-12-16 14:50:27,518 - seleniumjavaautomation -INFO - Screenshot is captured and stored in screenshots folder
+2023-12-16 14:50:27,532 - seleniumjavaautomation -INFO - testtakeElementScreenshot method
+2023-12-16 14:50:39,831 - seleniumjavaautomation -INFO - testtakeSectionScreenshot method
+2023-12-16 14:50:51,148 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:50:51,152 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:50:55,754 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:50:55,761 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:51:00,457 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:51:00,459 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:51:07,172 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:51:07,173 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:51:11,935 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:51:11,936 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:51:16,259 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:51:16,261 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:51:51,587 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:51:51,588 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:52:11,431 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:52:11,433 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:52:34,352 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:52:34,354 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:52:40,650 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:52:40,652 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:53:00,807 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:53:00,808 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:53:06,579 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:53:06,580 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:53:22,706 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:53:22,707 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:53:26,360 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:53:26,366 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:54:25,887 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:54:25,888 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:54:35,092 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:54:35,094 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:54:36,685 - seleniumjavaautomation -INFO - testXYCoordinatesOfElement method started to execution
+2023-12-16 14:54:41,106 - seleniumjavaautomation -INFO - testXYCoordinatesOfElement method execution completed
+2023-12-16 14:54:41,483 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:54:41,484 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:54:46,319 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:54:46,320 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:54:47,973 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method started to execution
+2023-12-16 14:54:52,573 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by Old Feature
+2023-12-16 14:54:52,574 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method execution completed
+2023-12-16 14:54:52,961 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:54:52,965 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:54:54,564 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method started to execution
+2023-12-16 14:55:00,614 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by New Feature
+2023-12-16 14:55:00,614 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method execution completed
+2023-12-16 14:55:01,062 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:55:01,063 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:55:02,669 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method started to execution
+2023-12-16 14:55:05,049 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method execution completed
+2023-12-16 14:55:05,385 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:55:05,388 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:55:07,003 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method started to execution
+2023-12-16 14:55:07,036 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method execution completed
+2023-12-16 14:55:13,046 - seleniumjavaautomation -INFO - setGetWinSize method started to execution
+2023-12-16 14:55:19,333 - seleniumjavaautomation -INFO - setGetWinSize method execution completed
+2023-12-16 14:55:19,340 - seleniumjavaautomation -INFO - setGetWinPosition method started to execution
+2023-12-16 14:55:25,489 - seleniumjavaautomation -INFO - setGetWinPosition method execution completed
+2023-12-16 14:55:25,880 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:55:25,881 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:55:27,408 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method started to execution
+2023-12-16 14:56:02,532 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method execution completed
+2023-12-16 14:56:03,002 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:56:03,003 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 14:56:04,682 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 14:56:14,517 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 14:56:15,124 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 14:56:15,125 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 14:56:15,132 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 14:56:15,132 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:01:30,148 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:01:30,167 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:01:43,704 - seleniumjavaautomation -INFO - Application opend
+2023-12-16 15:01:45,304 - seleniumjavaautomation -INFO - Highlited First Name element
+2023-12-16 15:01:46,287 - seleniumjavaautomation -INFO - Highlited click button 
+2023-12-16 15:01:53,837 - seleniumjavaautomation -INFO - Highlited submit button 
+2023-12-16 15:01:55,046 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:01:55,048 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:01:57,047 - seleniumjavaautomation -INFO - testCaptureScreenshotFullpage method
+2023-12-16 15:02:01,156 - seleniumjavaautomation -INFO - Application opend
+2023-12-16 15:02:01,372 - seleniumjavaautomation -INFO - Screenshot is captured and stored in screenshots folder
+2023-12-16 15:02:01,386 - seleniumjavaautomation -INFO - testtakeElementScreenshot method
+2023-12-16 15:02:14,205 - seleniumjavaautomation -INFO - testtakeSectionScreenshot method
+2023-12-16 15:02:26,003 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:02:26,005 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:02:32,869 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:02:32,877 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:02:38,761 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:02:38,762 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:02:47,077 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:02:47,082 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:02:52,717 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:02:52,718 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:02:58,395 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:02:58,397 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:03:34,891 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:03:34,892 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:03:58,019 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:03:58,020 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:04:24,661 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:04:24,663 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:04:40,118 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:04:40,121 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:05:05,270 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:05:05,272 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:05:11,462 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:05:11,463 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:05:27,857 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:05:27,858 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:05:34,634 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:05:34,648 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:06:37,883 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:06:37,886 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:06:48,857 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:06:48,859 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:06:50,826 - seleniumjavaautomation -INFO - testXYCoordinatesOfElement method started to execution
+2023-12-16 15:06:54,228 - seleniumjavaautomation -INFO - testXYCoordinatesOfElement method execution completed
+2023-12-16 15:06:54,668 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:06:54,669 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:07:00,333 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:07:00,334 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:07:02,230 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method started to execution
+2023-12-16 15:07:06,433 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by Old Feature
+2023-12-16 15:07:06,434 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method execution completed
+2023-12-16 15:07:06,842 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:07:06,843 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:07:08,623 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method started to execution
+2023-12-16 15:07:12,781 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by New Feature
+2023-12-16 15:07:12,781 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method execution completed
+2023-12-16 15:07:13,470 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:07:13,471 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:07:15,845 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method started to execution
+2023-12-16 15:07:19,101 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method execution completed
+2023-12-16 15:07:19,691 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:07:19,693 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:07:21,577 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method started to execution
+2023-12-16 15:07:21,599 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method execution completed
+2023-12-16 15:07:27,608 - seleniumjavaautomation -INFO - setGetWinSize method started to execution
+2023-12-16 15:07:33,940 - seleniumjavaautomation -INFO - setGetWinSize method execution completed
+2023-12-16 15:07:33,951 - seleniumjavaautomation -INFO - setGetWinPosition method started to execution
+2023-12-16 15:07:40,091 - seleniumjavaautomation -INFO - setGetWinPosition method execution completed
+2023-12-16 15:07:40,577 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:07:40,582 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:07:42,338 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method started to execution
+2023-12-16 15:08:17,634 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method execution completed
+2023-12-16 15:08:18,034 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:08:18,035 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-16 15:08:20,171 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-16 15:08:32,119 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-16 15:08:33,367 - seleniumjavaautomation -INFO - Test finished 
+2023-12-16 15:08:33,369 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-16 15:08:33,376 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-16 15:08:33,377 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:43:30,099 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:43:30,113 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:43:47,457 - seleniumjavaautomation -INFO - Application opend
+2023-12-23 16:43:48,473 - seleniumjavaautomation -INFO - Highlited First Name element
+2023-12-23 16:43:49,541 - seleniumjavaautomation -INFO - Highlited click button 
+2023-12-23 16:43:57,317 - seleniumjavaautomation -INFO - Highlited submit button 
+2023-12-23 16:44:00,645 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:44:00,646 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:44:02,811 - seleniumjavaautomation -INFO - testCaptureScreenshotFullpage method
+2023-12-23 16:44:04,207 - seleniumjavaautomation -INFO - Application opend
+2023-12-23 16:44:05,223 - seleniumjavaautomation -INFO - Screenshot is captured and stored in screenshots folder
+2023-12-23 16:44:05,252 - seleniumjavaautomation -INFO - testtakeElementScreenshot method
+2023-12-23 16:44:17,819 - seleniumjavaautomation -INFO - testtakeSectionScreenshot method
+2023-12-23 16:44:30,006 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:44:30,008 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:44:35,063 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:44:35,067 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:44:38,993 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:44:38,995 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:44:47,221 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:44:47,223 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:44:51,993 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:44:51,994 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:44:55,700 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:44:55,701 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:45:31,829 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:45:31,840 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:45:52,698 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:45:52,699 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:46:14,073 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:46:14,075 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:46:20,475 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:46:20,476 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:46:42,205 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:46:42,206 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:46:47,941 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:46:47,943 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:47:05,121 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:47:05,122 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:47:10,936 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:47:10,938 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:48:11,775 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:48:11,776 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:48:23,754 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:48:23,756 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:48:25,346 - seleniumjavaautomation -INFO - testXYCoordinatesOfElement method started to execution
+2023-12-23 16:48:30,537 - seleniumjavaautomation -INFO - testXYCoordinatesOfElement method execution completed
+2023-12-23 16:48:31,013 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:48:31,015 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:48:38,028 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:48:38,029 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:48:39,553 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method started to execution
+2023-12-23 16:48:45,276 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by Old Feature
+2023-12-23 16:48:45,276 - seleniumjavaautomation -INFO - testCaptueElementScreenshotOld method execution completed
+2023-12-23 16:48:45,697 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:48:45,698 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:48:47,394 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method started to execution
+2023-12-23 16:48:50,834 - seleniumjavaautomation -INFO - Captured screenshot and stored at location by New Feature
+2023-12-23 16:48:50,835 - seleniumjavaautomation -INFO - testCaptueElementScreenshotNew method execution completed
+2023-12-23 16:48:51,257 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:48:51,258 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:48:52,915 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method started to execution
+2023-12-23 16:48:55,404 - seleniumjavaautomation -INFO - testXpathPositionLastFunctions method execution completed
+2023-12-23 16:48:55,833 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:48:55,835 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:48:57,375 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method started to execution
+2023-12-23 16:48:57,404 - seleniumjavaautomation -INFO - getSizeAndPositionWindowDefault method execution completed
+2023-12-23 16:49:03,411 - seleniumjavaautomation -INFO - setGetWinSize method started to execution
+2023-12-23 16:49:09,822 - seleniumjavaautomation -INFO - setGetWinSize method execution completed
+2023-12-23 16:49:09,830 - seleniumjavaautomation -INFO - setGetWinPosition method started to execution
+2023-12-23 16:49:15,965 - seleniumjavaautomation -INFO - setGetWinPosition method execution completed
+2023-12-23 16:49:16,368 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:49:16,370 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:49:18,052 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method started to execution
+2023-12-23 16:49:53,647 - seleniumjavaautomation -INFO - testScrollDownUpBottomToElementWebPage method execution completed
+2023-12-23 16:49:54,317 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:49:54,320 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:49:56,283 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method started to execution
+2023-12-23 16:50:07,483 - seleniumjavaautomation -INFO - testVerifyScrollPresentOnBrowser method execution completed
+2023-12-23 16:50:08,678 - seleniumjavaautomation -INFO - Test finished 
+2023-12-23 16:50:08,679 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-23 16:50:08,689 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:50:08,690 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:50:21,963 - seleniumjavaautomation -INFO - Test finished 
+2023-12-23 16:50:21,965 - seleniumjavaautomation -INFO - Browser closed 
+2023-12-23 16:50:21,975 - seleniumjavaautomation -INFO - Chrome browser launched successfully
+2023-12-23 16:50:21,976 - seleniumjavaautomation -INFO - Test Starts Running In Chrome browser.
+2023-12-23 16:50:27,714 - seleniumjavaautomation -INFO - testReadingPieChartToolTipValue method started to execution

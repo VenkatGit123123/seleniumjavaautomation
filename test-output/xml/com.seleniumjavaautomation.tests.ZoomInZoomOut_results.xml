@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium Java Automation Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.936">
+  <properties />
+  
+  
+            <testcase name="getScrollStatus" time="5.936" classname="com.seleniumjavaautomation.tests.ZoomInZoomOut" />
+      
+</testsuite>

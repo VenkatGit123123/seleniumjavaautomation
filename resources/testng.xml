@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="seleniumjavaautomation">
+ <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+   </listeners>
+
+	<test name="Selenium Java Automation Test">
+	<parameter name="browser" value="chrome" />
+	
+		<classes>
+		
+		 		        
+		 		        <class name="com.seleniumjavaautomation.tests.HighlightElement"/>
+		 		         <class name="com.seleniumjavaautomation.tests.CapturingScreenshot"/> 
+		 		        <class name="com.seleniumjavaautomation.tests.ObjRepoCalcTest"/>
+		 		       
+		 		        <class name="com.seleniumjavaautomation.tests.GetOrExtractAllLinks"/>
+		 		  
+		 		     <class name="com.seleniumjavaautomation.tests.ExtractAllTextFields"/>
+		 		
+		 		    <class name="com.seleniumjavaautomation.tests.ExtractOrReadTableData"/>
+		 		    
+		 		     <class name="com.seleniumjavaautomation.tests.HandlingDynamicWebTable"/>
+		 		     
+		 		    
+		 		     <class name="com.seleniumjavaautomation.tests.HandlingDownloadDiffFiles"/>
+		 		  
+		 		  <class name="com.seleniumjavaautomation.tests.HandleAjaxAutoSuggestDropList"/>
+		 		  
+		 		  <class name="com.seleniumjavaautomation.tests.ParameterizationExcelData"/>
+		 		  
+		 		   <class name="com.seleniumjavaautomation.tests.DragAndDrop"/>
+		 		   
+		 		   <class name="com.seleniumjavaautomation.tests.DragAndDropElementByPixel"/>
+		 		   
+		 		   <class name="com.seleniumjavaautomation.tests.SelectjQuerySelectableItems"/>
+		 		   
+		 		    <class name="com.seleniumjavaautomation.tests.MoveJQuerySlider"/>
+		 		   
+		 		    <class name="com.seleniumjavaautomation.tests.ResizingJQueryResizableElement"/>
+		 		  
+		 		   <class name="com.seleniumjavaautomation.tests.JQueryDatePicker"/>
+		 		  
+		 		   
+		 		   
+		 		   <class name="com.seleniumjavaautomation.tests.DownloadAndSaveImageByActionRobotClass"/>
+		 		   
+		 		    <class name="com.seleniumjavaautomation.tests.XYCoordinatesOfElement"/>
+		 		   
+		 		   <class name="com.seleniumjavaautomation.tests.HeightAndWidthOfElement"/>
+		 		   
+		 		   <class name="com.seleniumjavaautomation.tests.CaptueElementScreenshotOld"/>
+		 		 
+		 		     <class name="com.seleniumjavaautomation.tests.CaptueElementScreenshotNew"/>
+		 		 <!--  -->    
+		 		     <class name="com.seleniumjavaautomation.tests.XpathPositionLastFunctions"/>
+		 		     
+		 		     <class name="com.seleniumjavaautomation.tests.SetGetWindowPositionAndSize"/>
+		 		     
+		 		   
+		 		    <class name="com.seleniumjavaautomation.tests.ScrollDownUpBottomToElementWebPage"/>
+		 		    
+		 		    <class name="com.seleniumjavaautomation.tests.VerifyScrollPresentOnBrowser"/>
+		 		   
+		 		   <class name="com.seleniumjavaautomation.tests.DoubleClickOnButton"/>
+		 		 
+		 		    
+		 		    
+		 		    <class name="com.seleniumjavaautomation.tests.ReadingPieChartToolTipValue"/>
+		 		    <class name="com.seleniumjavaautomation.tests.ZoomInZoomOut"/>
+		 		    
+		 		    <class name="com.seleniumjavaautomation.tests.ClosingAllTabsUsingRobotClass"/>
+		 		    
+		 		  </classes>
+		 		  
+		 		  
+</test>
+	
+</suite>

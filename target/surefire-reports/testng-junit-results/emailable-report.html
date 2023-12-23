@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">Surefire suite</th></tr>
+<tr><td><a href="#t0">Surefire test</a></td><td class="num">9</td><td class="num attn">1</td><td class="num">0</td><td class="num attn">4</td><td class="num">74,318</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Surefire suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Surefire test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="4">org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest</td><td><a href="#m0">exceptiontest1</a></td><td rowspan="2">1702736958310</td><td rowspan="2">9130</td></tr><tr class="failedeven"><td><a href="#m1">exceptiontest1</a></td></tr><tr class="failedeven"><td><a href="#m2">testJunitTimeoutException</a></td><td rowspan="2">1702736897036</td><td rowspan="2">53960</td></tr><tr class="failedeven"><td><a href="#m3">testJunitTimeoutException</a></td></tr><tr><th colspan="4">Surefire test &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">org.seleniumjavaautomation.junit.Junittest2</td><td><a href="#m4">testMethod4</a></td><td rowspan="1">1702736897034</td><td rowspan="1">0</td></tr><tr><th colspan="4">Surefire test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="3">org.seleniumjavaautomation.junit.JunitBCAC</td><td><a href="#m5">testMethod1</a></td><td rowspan="1">1702736897034</td><td rowspan="1">45552</td></tr><tr class="passedeven"><td><a href="#m6">testMethod2</a></td><td rowspan="1">1702736897035</td><td rowspan="1">47730</td></tr><tr class="passedeven"><td><a href="#m7">testMethod3</a></td><td rowspan="1">1702736897035</td><td rowspan="1">47886</td></tr><tr class="passedodd"><td rowspan="2">org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest</td><td><a href="#m8">exceptiontest2</a></td><td rowspan="2">1702736897036</td><td rowspan="2">61272</td></tr><tr class="passedodd"><td><a href="#m9">exceptiontest2</a></td></tr><tr class="passedeven"><td rowspan="1">org.seleniumjavaautomation.junit.Junittest1</td><td><a href="#m10">testMethodClass1</a></td><td rowspan="1">1702736897009</td><td rowspan="1">12747</td></tr><tr class="passedodd"><td rowspan="3">org.seleniumjavaautomation.junit.Junittest2</td><td><a href="#m11">testMethod1</a></td><td rowspan="1">1702736897009</td><td rowspan="1">22794</td></tr><tr class="passedodd"><td><a href="#m12">testMethod2</a></td><td rowspan="1">1702736897009</td><td rowspan="1">31983</td></tr><tr class="passedodd"><td><a href="#m13">testMethod3</a></td><td rowspan="1">1702736897009</td><td rowspan="1">37755</td></tr></tbody>
+</table>
+<h2>Surefire test</h2><h3 id="m0">org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest#exceptiontest1</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException
+	at org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest.exceptiontest1(JunitTimeoutAndEcpectedExceptionTest.java:52)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 28 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest#exceptiontest1</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException
+	at org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest.exceptiontest1(JunitTimeoutAndEcpectedExceptionTest.java:52)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 28 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest#testJunitTimeoutException</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Exception: test timed out after 2000 milliseconds
+	at java.base@17.0.6/java.lang.Thread.sleep(Native Method)
+	at app//org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest.testJunitTimeoutException(JunitTimeoutAndEcpectedExceptionTest.java:44)
+	at app//org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at app//org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at app//org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at app//org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at app//org.junit.internal.runners.statements.FailOnTimeout$StatementThread.run(FailOnTimeout.java:74)
+... Removed 4 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest#testJunitTimeoutException</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.Exception: test timed out after 2000 milliseconds
+	at java.base@17.0.6/java.lang.Thread.sleep(Native Method)
+	at app//org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest.testJunitTimeoutException(JunitTimeoutAndEcpectedExceptionTest.java:44)
+	at app//org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at app//org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at app//org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at app//org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at app//org.junit.internal.runners.statements.FailOnTimeout$StatementThread.run(FailOnTimeout.java:74)
+... Removed 4 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">org.seleniumjavaautomation.junit.Junittest2#testMethod4</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">org.seleniumjavaautomation.junit.JunitBCAC#testMethod1</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">org.seleniumjavaautomation.junit.JunitBCAC#testMethod2</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">org.seleniumjavaautomation.junit.JunitBCAC#testMethod3</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest#exceptiontest2</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">org.seleniumjavaautomation.junit.JunitTimeoutAndEcpectedExceptionTest#exceptiontest2</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">org.seleniumjavaautomation.junit.Junittest1#testMethodClass1</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">org.seleniumjavaautomation.junit.Junittest2#testMethod1</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m12">org.seleniumjavaautomation.junit.Junittest2#testMethod2</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m13">org.seleniumjavaautomation.junit.Junittest2#testMethod3</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

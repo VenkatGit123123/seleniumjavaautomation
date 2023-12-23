@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium Java Automation Test "
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.539">
+  <properties />
+  
+  
+            <testcase name="getSizeAndPositionWindowDefault" time="6.056" classname="com.seleniumjavaautomation.tests.SetGetWindowPositionAndSize" />
+                <testcase name="setGetWinPosition" time="6.157" classname="com.seleniumjavaautomation.tests.SetGetWindowPositionAndSize" />
+                <testcase name="setGetWinSize" time="6.326" classname="com.seleniumjavaautomation.tests.SetGetWindowPositionAndSize" />
+      
+</testsuite>

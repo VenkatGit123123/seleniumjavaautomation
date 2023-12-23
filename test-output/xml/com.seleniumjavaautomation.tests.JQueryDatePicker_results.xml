@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium Java Automation Test "
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="58.058">
+  <properties />
+  
+  
+            <testcase name="testJQueryDatePicker" time="58.058" classname="com.seleniumjavaautomation.tests.JQueryDatePicker" />
+      
+</testsuite>
